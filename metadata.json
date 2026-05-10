@@ -1,0 +1,7 @@
+{
+  "name": "Alok Bot",
+  "description": "A visually stunning AI chatbot named Alok, built with React and the Gemini API. It offers an engaging and futuristic chat experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
